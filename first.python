@@ -1,3 +1,9 @@
 #Display
 
 print("New Python File")
+
+print("New Python File")
+def add(a,b):
+  return a+b
+
+print(add(4,7))
